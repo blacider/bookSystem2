@@ -18,7 +18,7 @@ bookSystem 是一个电影订票系统。
     * 方法一：
         1. `npm install`
         2. `npm start`
-    * 方法二(修改后台代码后不用刷新):
+    * 方法二(修改后台代码后不用重启):
         1. `npm install`
         2. `npm install supervisor -g`
         3. `supervisor ./bin/www`
